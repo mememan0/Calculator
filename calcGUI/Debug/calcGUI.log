@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+d:\user stuffs\documents\university\ct4021 introduction to programming fundamentals\repocalc\calculator\calcgui\mainGUI.h(1201): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdlib.h(1334): note: see declaration of 'itoa'
+d:\user stuffs\documents\university\ct4021 introduction to programming fundamentals\repocalc\calculator\calcgui\mainGUI.h(1224): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdlib.h(1334): note: see declaration of 'itoa'
+  calcGUI.vcxproj -> D:\User Stuffs\Documents\University\CT4021 Introduction to Programming Fundamentals\RepoCalc\Calculator\Debug\calcGUI.exe
